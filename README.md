@@ -14,7 +14,8 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/marcio-greick-499a8b1ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-greick-499a8b1ab)
+
 
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcioferroli@hotmail.com)
 
