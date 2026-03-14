@@ -1,4 +1,7 @@
 # Olá, eu sou o Marcio Greick
+
+Sou estudante de Desenvolvimento de Sistemas, com foco em aprender e evoluir na área de programação.
+
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
@@ -19,3 +22,6 @@
 
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcioferroli@hotmail.com)
 
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcioferroli&show_icons=true&theme=default)
