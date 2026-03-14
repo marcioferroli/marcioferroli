@@ -22,6 +22,8 @@ Sou estudante de Desenvolvimento de Sistemas, com foco em aprender e evoluir na 
 
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcioferroli@hotmail.com)
 
-## 📊 Estatísticas
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:marciogreickgv@gmail.com)
+
+## Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcioferroli&show_icons=true&theme=default)
